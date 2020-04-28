@@ -1,7 +1,7 @@
-package com.holo.controller;
+package com.neep.holo.controller;
 
 
-import com.holo.controller.web.HelloController;
+import com.neep.holo.web.HelloController;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
